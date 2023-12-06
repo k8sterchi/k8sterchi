@@ -1,4 +1,7 @@
-### Hi there 👋
+### ✨ Hi, my name is Kate ✨
+
+My interests are primarily in decentralized social media and decentralized finance. 
+However, I am quite new to developing, so my portfolio reflects the beginning of my journey towards creating new systems of relation and exchange.
 
 <!--
 **k8sterchi/k8sterchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
