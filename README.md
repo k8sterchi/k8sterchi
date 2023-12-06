@@ -3,7 +3,7 @@
 My interests are primarily in decentralized social media and decentralized finance. 
 However, I am quite new to developing, so my repos reflect the beginning of my journey towards creating new systems of relation and exchange.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,apollo,bootstrap,express,figma,git,github,graphql,heroku,jquery,jest,mongodb,mysql,nodejs,postman,react,tailwind,vscode)](https://skillicons.dev)
 
 <!--
 **k8sterchi/k8sterchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
