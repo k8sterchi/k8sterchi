@@ -1,7 +1,5 @@
 ### ✨ Hi, my name is Kate ✨
-
-My interests are primarily in decentralized social media and decentralized finance. 
-However, I am quite new to developing, so my repos reflect the beginning of my journey towards creating new systems of relation and exchange.
+I am quite new to developing, so my repos reflect the beginning of my journey towards creating new systems of relation and exchange.
 
 ### Skills
 
