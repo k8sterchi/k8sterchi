@@ -1,5 +1,6 @@
 ### ✨ Hi, my name is Kate ✨
-I am quite new to developing, so my repos reflect the beginning of my journey towards creating new systems of relation and exchange.
+Fullstack Developer
+
 
 ### Skills
 
