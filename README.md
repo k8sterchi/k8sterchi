@@ -4,7 +4,7 @@ Fullstack Developer
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,apollo,bootstrap,express,figma,git,github,graphql,heroku,jquery,jest,mongodb,mysql,nodejs,postman,react,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,apollo,bootstrap,express,figma,git,github,graphql,heroku,jquery,jest,mongodb,mysql,nodejs,postman,react,tailwind,vscode,pr,ps)](https://skillicons.dev)
 
 <!--
 **k8sterchi/k8sterchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
